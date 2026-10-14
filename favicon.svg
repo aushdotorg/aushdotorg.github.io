@@ -1,0 +1,71 @@
+<svg viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="fav-tail-clip">
+      <path d="M 195,335 C 155,348 112,336 86,296 C 64,262 68,220 80,195 C 86,182 100,186 112,204 C 134,236 150,285 195,335 Z" />
+    </clipPath>
+  </defs>
+
+  <!-- Blue Rounded Badge Background matching Launch Screen -->
+  <rect width="500" height="500" rx="96" fill="#2B79BA" />
+
+  <!-- Origami Paper Airplane Flying in Top Right -->
+  <g>
+    <path d="M 436,92 L 330,126 L 364,164 L 372,146 L 408,162 Z" fill="#FFFFFF" />
+    <polygon points="436,92 364,164 374,138" fill="#E1EFFB" />
+    <path d="M 320,136 Q 300,144 286,140" stroke="#FFFFFF" stroke-width="3.5" stroke-dasharray="6 6" stroke-linecap="round" opacity="0.75" />
+  </g>
+
+  <!-- Tail with Two Broad Navy Stripes -->
+  <g>
+    <path d="M 195,335 C 155,348 112,336 86,296 C 64,262 68,220 80,195 C 86,182 100,186 112,204 C 134,236 150,285 195,335 Z" fill="#FFFFFF" />
+    <g clip-path="url(#fav-tail-clip)">
+      <path d="M 68,226 C 92,216 122,234 136,258 L 118,274 C 104,252 80,242 60,250 Z" fill="#14294C" />
+      <path d="M 82,284 C 110,272 144,292 162,318 L 144,334 C 128,308 100,296 74,306 Z" fill="#14294C" />
+    </g>
+  </g>
+
+  <!-- Chubby Body & Feet -->
+  <g>
+    <path d="M 196,242 C 180,256 166,286 164,332 C 162,364 150,388 140,402 C 138,406 182,406 186,396 C 194,376 208,368 226,364 C 232,372 236,388 244,402 C 248,406 292,406 292,396 C 292,378 286,356 282,332 C 294,296 298,258 284,242 Z" fill="#FFFFFF" />
+    <path d="M 138,402 C 138,394 156,390 178,392 C 188,394 186,406 138,406 Z" fill="#FFFFFF" />
+    <path d="M 244,402 C 248,392 272,390 292,392 C 296,396 294,406 244,406 Z" fill="#FFFFFF" />
+    <path d="M 218,328 C 222,346 220,362 214,368" stroke="#2B79BA" stroke-width="4" stroke-linecap="round" fill="none" />
+    <path d="M 272,326 C 274,342 268,350 256,352" stroke="#2B79BA" stroke-width="4" stroke-linecap="round" fill="none" />
+
+    <!-- Rounded Head & Balanced Ears -->
+    <path d="M 166,160 C 156,178 158,204 168,220 C 178,236 206,246 248,246 C 288,246 316,232 324,208 C 328,184 320,162 300,148 C 278,136 254,136 222,138 C 192,140 174,148 166,160 Z" fill="#FFFFFF" />
+    
+    <!-- Ears -->
+    <path d="M 170,168 C 160,142 164,122 174,120 C 184,118 196,138 206,156 Z" fill="#FFFFFF" />
+    <path d="M 174,162 C 168,146 170,132 176,130 C 182,128 190,142 198,156 Z" fill="#14294C" />
+    <path d="M 264,144 C 274,122 286,108 296,112 C 304,116 302,136 298,150 Z" fill="#FFFFFF" />
+    <path d="M 270,142 C 276,126 284,116 290,118 C 294,120 294,134 290,146 Z" fill="#14294C" />
+    <path d="M 194,242 C 224,248 266,246 284,240" stroke="#2B79BA" stroke-width="4" stroke-linecap="round" fill="none" />
+
+    <!-- Bandit Mask -->
+    <path d="M 172,212 C 166,202 174,180 198,168 C 216,158 238,166 252,176 C 266,166 288,158 308,172 C 320,182 318,198 308,206 C 294,212 280,200 264,190 C 252,190 242,200 228,212 C 214,224 186,224 172,212 Z" fill="#14294C" />
+
+    <!-- Snout & Nose -->
+    <ellipse cx="258" cy="202" rx="19" ry="13" fill="#FFFFFF" />
+    <ellipse cx="258" cy="196" rx="6.5" ry="4.5" fill="#0A1526" />
+    <circle cx="256.5" cy="194.5" r="1.5" fill="#FFFFFF" opacity="0.85" />
+
+    <!-- Launch Eyes (looking up-right towards the plane) -->
+    <circle cx="218" cy="184" r="9" fill="#FFFFFF" />
+    <circle cx="221" cy="182" r="5.5" fill="#0A1526" />
+    <circle cx="223" cy="180" r="2.2" fill="#FFFFFF" />
+
+    <circle cx="282" cy="178" r="9" fill="#FFFFFF" />
+    <circle cx="285" cy="176" r="5.5" fill="#0A1526" />
+    <circle cx="287" cy="174" r="2.2" fill="#FFFFFF" />
+
+    <!-- Confident Smile -->
+    <path d="M 252,206 Q 258,212 264,206" stroke="#0A1526" stroke-width="2.5" stroke-linecap="round" fill="none" />
+
+    <!-- Launch Arms (Pointing towards paper plane) -->
+    <path d="M 196,242 C 178,256 156,278 142,306 C 134,316 142,328 154,324 C 172,318 188,290 200,264 Z" fill="#FFFFFF" />
+    <path d="M 284,242 C 304,224 330,198 354,178 C 366,168 376,178 368,188 C 352,212 318,248 296,264 Z" fill="#FFFFFF" />
+    <path d="M 354,178 L 368,168" stroke="#FFFFFF" stroke-width="6.5" stroke-linecap="round" />
+    <path d="M 284,242 C 290,260 294,282 294,306" stroke="#2B79BA" stroke-width="4.2" stroke-linecap="round" fill="none" />
+  </g>
+</svg>
