@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://sitemaps.org">
+  <!-- Hauptseiten & Subdomains -->
   <url>
-    <loc>https://www.aush.org/</loc>
+    <loc>https://aush.org</loc>
   </url>
   <url>
-    <loc>https://speed.aush.org/</loc>
+    <loc>https://www.aush.org</loc>
+  </url>
+  <url>
+    <loc>https://speed.aush.org</loc>
+  </url>
+  
+  <!-- Unterseiten -->
+  <url>
+    <loc>https://aush.org/join</loc>
+  </url>
+  <url>
+    <loc>https://www.aush.org/join</loc>
   </url>
 </urlset>
